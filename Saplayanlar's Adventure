@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T12:43:42.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.1" etag="ASB85H8z8_EKuSih8fKp" type="github"><diagram id="RvDYd_4EfySGQz9UaGUG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-24T12:55:17.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="fgX5ptKa0jkV1rJbqqjT" version="13.8.1" type="github">
+  <diagram id="RvDYd_4EfySGQz9UaGUG" name="Page-1">
+    <mxGraphModel dx="981" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="95WA4t6o2KhKE99Ff8RU-1" value="Saplayanlar&#39;s Adventure" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="95WA4t6o2KhKE99Ff8RU-2" value="&lt;font style=&quot;font-size: 8px&quot;&gt;--Kahramanlar--&lt;br&gt;Emre, Recep, Musti&lt;br&gt;&lt;br&gt;Emre İstanbul&#39;a gelmiştir ve Musti&#39;yle Recep, Emre&#39;yi masaja götürmektedir. Tam masaj sırasında dışarıdan garip sesler gelir ve bir anda sesler kesilir. Bir kaç saniye sonra kapının altından kanlar içeriye doğru yavaşça süzülmeye başlar.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="95WA4t6o2KhKE99Ff8RU-5" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="95WA4t6o2KhKE99Ff8RU-1" target="95WA4t6o2KhKE99Ff8RU-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="70" as="sourcePoint" />
+            <mxPoint x="210" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
